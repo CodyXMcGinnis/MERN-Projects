@@ -1,0 +1,47 @@
+* {
+  margin:10px;
+  padding:0px;
+}
+
+.container {
+  display: inline;
+}
+
+table {
+  border: 5px solid black;
+  width: 100%;
+}
+
+#outline {
+  border: 5px solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 50%;
+}
+
+#corner {
+  padding-left: 700px;
+  margin-bottom: -300px;
+}
+
+#skill {
+  padding-left: 52%;
+}
+
+#likebutton {
+  display: flex;
+  padding-bottom: 20px;
+  margin-left: 220px;
+}
+
+#adopt {
+  display: flex;
+} 
+
+#adoptbutton {
+  margin-left: 470px;
+}
+
+#like {
+  margin-right: 20px;
+}

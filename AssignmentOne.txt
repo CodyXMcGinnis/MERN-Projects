@@ -1,0 +1,20 @@
+Problem 1:
+Output: Tesla 
+	Mercedes 
+
+Problem 2: 
+Output: ReferenceError: name is not defined
+
+Problem 3: 
+Output: 12345
+	undefined
+
+Problem 4:
+Output: FALSE
+	TRUE
+
+Problem 5:
+Output: value
+	[1,5,1,8,3,3]
+	1
+	5
